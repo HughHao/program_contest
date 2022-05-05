@@ -1,0 +1,3 @@
+# program_contest
+把数据处理成字典的不同方式及其花费的时间
+分别用Go语言和python进行实现
